@@ -2,7 +2,7 @@
 
 ## Shabid
 - Satpal
-- Permeshwar
+- Parmeshwar
 - Tushar
 - Rajkumar
 
@@ -31,7 +31,7 @@
 - Amarpal
 - Umesh
 
-## Permeshwar
+## Parmeshwar
 - Amol 
 - Anurag
 
