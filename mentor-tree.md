@@ -23,7 +23,7 @@
 - Ankit
 
 ## Deepak
-- Pawan
+- Pravin
 - Navid
 - Ranjan
 
@@ -37,19 +37,19 @@
 
 ## Vishal
 - Nasir
-- Abhay
+- 
 
 ## Subhas
 - Harshal
-- Satyam 
+- priyanshu
 
 ## Subhdip
 - Suraj Kumar
 
 ## Siddik
-- Priyanshu
+- Satyam
 - Akshay 
 
-## ShreeKumar
-- Praveen
+## Suraj Shah
+- Pawan
 
