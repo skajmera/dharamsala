@@ -11,3 +11,5 @@ Lunch & Break | 1:00 PM | 2:30 PM
 Tech Studies | 2:30 PM | 5:30 PM
 Break | 5:00 PM | 6:00 PM
 Self Study :)
+
+# Think big, start small, fail early 🙂
