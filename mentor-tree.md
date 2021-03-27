@@ -36,9 +36,8 @@
 - Anurag
 
 ## Vishal
-- Nasir
-- prathmeah
-
+- nasir
+-prathmesh
 
 ## Subhas
 - Harshal
@@ -48,9 +47,9 @@
 - Suraj Kumar
 
 ## Siddik
-- Satyam
 - Akshay 
 
 ## Suraj Shah
 - Pawan
-
+##Sampath
+-satyam
