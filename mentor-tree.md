@@ -1,56 +1,57 @@
 # Mentorship tree
 
 ## Shabid
-- Satpal
-- Parmeshwar
+- Vishal
+- Subhas
 - Tushar
 - Rajkumar
+- Suraj Shah
+- Anmol
+- Parmeshwar
 
 ## Riyaz
-- Vishal
-- Sampth
-- Dipesh
-- Hemant
-
-## Somesh
-- Subhash
-- Subhadip
-- ShreeKumar
-
-## Raju
-- Siddik
-- Suraj Shah
-- Ankit
-
-## Deepak
-- Pravin
-- Navid
+- Anurag
+- Dhruv 
+- Shubhadip
+- Prathmesh
 - Ranjan
+- Sampat
+- Dipesh
+- Priyanshu
+- Siddik
+- Satpal
 
-## Rakesh
-- Amarpal
-- Umesh
 
 ## Parmeshwar
-- Amol 
-- Anurag
+- Amol
+- Akshay
+- Hemant
 
 ## Vishal
-- Nasir
-- Prathmesh
-
-## Subhas
+- Ankit 
 - Harshal
-- priyanshu
-
-## Subhdip
-- Suraj Kumar
 
 ## Siddik
-- Akshay 
+- Shubham kulkarni
 
 ## Suraj Shah
 - Pawan
+- Vikas
 
 ## Sampath
-- Satyam
+- Akshit 
+- Suraj kumar
+- Rajesh
+- Rahul Sarayam
+
+## Anmol
+- Aarif
+- Saikiran
+
+## Shubhadip
+- Abhay
+- Nasir
+
+## Subhash
+- Pravin
+
