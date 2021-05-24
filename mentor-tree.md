@@ -1,26 +1,27 @@
 # Mentorship tree
 
-## Shabid
+## Anand/Prabhakar
 - Vishal
-- Subhas
+- Siddik
+- Subhash
+- Shubhadip
+- Parmeshwar
+- Anmol
+- Sampath
+
+## Shabid
 - Tushar
 - Rajkumar
 - Suraj Shah
-- Anmol
-- Parmeshwar
+- Priyanshu
+- Satpal
 
 ## Riyaz
 - Anurag
 - Dhruv 
-- Shubhadip
 - Prathmesh
 - Ranjan
-- Sampat
 - Dipesh
-- Priyanshu
-- Siddik
-- Satpal
-
 
 ## Parmeshwar
 - Amol
@@ -54,4 +55,3 @@
 
 ## Subhash
 - Pravin
-
