@@ -8,25 +8,15 @@
 - Parmeshwar
 - Anmol
 - Sampath
-
-## Shabid
-- Tushar
-- Rajkumar
-- Suraj Shah
-- Priyanshu
 - Satpal
+- Rajkumar
 
-## Riyaz
-- Anurag
-- Dhruv 
-- Prathmesh
+## Shubhadip
 - Ranjan
-- Dipesh
+- Suraj kumar
 
 ## Parmeshwar
-- Amol
-- Akshay
-- Hemant
+- Suraj Sah
 
 ## Vishal
 - Ankit 
@@ -34,24 +24,50 @@
 
 ## Siddik
 - Shubham kulkarni
-
-## Suraj Shah
-- Pawan
-- Vikas
+- Dhruv
 
 ## Sampath
-- Akshit 
-- Suraj kumar
-- Rajesh
 - Rahul Sarayam
 
 ## Anmol
-- Aarif
-- Saikiran
-
-## Shubhadip
-- Abhay
-- Nasir
+- Tushar
 
 ## Subhash
 - Pravin
+- Hemant
+
+## Satpal
+- Nasir
+
+## Rajkumar
+- Akshay 
+
+## Suraj Shah
+- Pawan
+
+## Ankit
+- Aarif
+- Saikiran
+
+## Praveen
+- Abhay
+
+## Dhruv
+- Rajesh Anuragi
+
+## Tushar
+- Amol
+
+## Ranjan
+- Akshit
+
+## Hemant
+- Vikas 
+
+## Shabid
+- Priyanshu
+- Dipesh
+
+## Riyaz
+- Anurag
+- Prathmesh
