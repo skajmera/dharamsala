@@ -17,17 +17,19 @@
 
 ## Parmeshwar
 - Suraj Sah
+- Saikiran
+- Aarif
 
 ## Vishal
-- Ankit 
 - Harshal
+- Ankit
+- Bhupendra
+- Rajesh
+- Rahul Saryam
 
 ## Siddik
 - Shubham kulkarni
 - Dhruv
-
-## Sampath
-- Rahul Sarayam
 
 ## Anmol
 - Tushar
@@ -41,33 +43,38 @@
 
 ## Rajkumar
 - Akshay 
+- Nikhil
 
 ## Suraj Shah
 - Pawan
 
-## Ankit
-- Aarif
-- Saikiran
-
 ## Praveen
 - Abhay
-
-## Dhruv
-- Rajesh Anuragi
+- Vikash Sharma
 
 ## Tushar
 - Amol
+- Vicky Yede
 
 ## Ranjan
 - Akshit
 - Priyanshu
 
 ## Hemant
-- Vikas 
-
-## Shabid
-- Dipesh
+- Vikash kumar
 
 ## Riyaz
 - Anurag
 - Prathmesh
+- Dipesh 
+
+## Amol Mugusmare
+- Surya Sen 
+
+## Rahul Saryam
+- Satyam Shukla
+- Shubham Ramteke
+
+## Priyanshu
+- Manoj Prajapati
+
