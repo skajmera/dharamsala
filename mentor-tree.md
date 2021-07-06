@@ -13,11 +13,10 @@
 
 ## Shubhadip
 - Ranjan
-- Suraj kumar
 
 ## Parmeshwar
 - Suraj Sah
-- Saikiran
+- Suraj kumar
 - Aarif
 
 ## Vishal
@@ -29,6 +28,8 @@
 
 ## Siddik
 - Shubham kulkarni
+- Amol
+- Vicky Yede
 - Dhruv
 
 ## Anmol
@@ -53,8 +54,7 @@
 - Vikash Sharma
 
 ## Tushar
-- Amol
-- Vicky Yede
+- Saikiran
 
 ## Ranjan
 - Akshit
