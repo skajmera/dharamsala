@@ -12,69 +12,75 @@
 - Rajkumar
 
 ## Shubhadip
-- Ranjan
+- Bhupendra
+- Rajesh
 
 ## Parmeshwar
-- Suraj Sah
-- Suraj kumar
+- Priyanshu
 - Aarif
 
 ## Vishal
-- Harshal
-- Ankit
-- Bhupendra
-- Rajesh
-- Rahul Saryam
+- Suraj Shah
+- Praveen
 
 ## Siddik
-- Shubham kulkarni
-- Amol
-- Vicky Yede
-- Dhruv
+- Suraj kumar
+- ranjan
 
 ## Anmol
 - Tushar
 
 ## Subhash
-- Pravin
-- Hemant
+-akshay
 
 ## Satpal
-- Nasir
+- Shubham Ramteke
 
 ## Rajkumar
-- Akshay 
-- Nikhil
+- Dhruv
+- Ankit
 
 ## Suraj Shah
-- Pawan
-
-## Praveen
-- Abhay
+- Rahul Saryam
 - Vikash Sharma
 
+## Praveen
+- Vipin
+- Anurag Pathak
+
 ## Tushar
-- Saikiran
+- Amit 
+- Roshan
 
 ## Ranjan
-- Akshit
-- Priyanshu
+- Pawan
+- Nikhil
 
 ## Hemant
-- Vikash kumar
+- Manoj Prajapati
+- khawaja
 
 ## Riyaz
-- Anurag
 - Prathmesh
 - Dipesh 
+- Akshit
 
 ## Amol Mugusmare
 - Surya Sen 
 
 ## Rahul Saryam
 - Satyam Shukla
-- Shubham Ramteke
+- Nasir
 
 ## Priyanshu
-- Manoj Prajapati
+- Shubham kulkarni
+- vicky yede
+
+## Pawan
+- Vikash kumar
+- Amol
+
+## Vikash Sharma
+- sai Kiran 
+- Satyam Kushwa
 
