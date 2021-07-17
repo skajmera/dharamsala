@@ -32,6 +32,7 @@
 
 ## Subhash
 -akshay
+-nashir
 
 ## Satpal
 - Shubham Ramteke
@@ -63,14 +64,14 @@
 ## Riyaz
 - Prathmesh
 - Dipesh 
-- Akshit
+- 
 
 ## Amol Mugusmare
 - Surya Sen 
 
 ## Rahul Saryam
 - Satyam Shukla
-- Nasir
+- akshit
 
 ## Priyanshu
 - Shubham kulkarni
