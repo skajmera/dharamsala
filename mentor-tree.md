@@ -29,6 +29,7 @@
 
 ## Anmol
 - Tushar
+- pradeep
 
 ## Subhash
 -akshay
@@ -59,7 +60,7 @@
 
 ## Hemant
 - Manoj Prajapati
-- khawaja
+- khwaja
 
 ## Riyaz
 - Prathmesh
@@ -83,5 +84,5 @@
 
 ## Vikash Sharma
 - sai Kiran 
-- Satyam Kushwa
+- Satyam kushwah
 
